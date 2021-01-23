@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Thanks for view: ![](https://komarev.com/ghpvc/?username=taolaolatao&color=blueviolet&style=flat)
 
 <!--
 **taolaolatao/taolaolatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+https://github.com/antonkomarev/github-profile-views-counter
+Here are some ideas to get you started: &label=PROFILE+VIEWS
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
